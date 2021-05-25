@@ -21,4 +21,5 @@ Data Encoding - Label Encoding, OneHot Encoding and Data Scaling - MinMaxScaler,
 Create Baseline ML Model for Binary Classification Problem.
 Improve ML Model with Voting Classifier with MODEL Evaluation METRIC - "F1" and Predict Target "is_promoted".
 Result Submission, Check Leaderboard & Improve "F1" Score
+
 ![hr](https://user-images.githubusercontent.com/69980760/119531709-d4a68800-bda1-11eb-967c-815a3d784f0d.PNG)
